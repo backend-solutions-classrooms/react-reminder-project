@@ -1,21 +1,21 @@
 // * Production start
-// import '../code/node_modules/@testing-library/jest-dom'
-// import * as React from '../code/node_modules/react'
-// import { render, fireEvent, screen } from '../code/node_modules/@testing-library/react'
-// import App from '../code/src/App'
-// import List from '../code/src/List'
+import '../code/node_modules/@testing-library/jest-dom'
+import * as React from '../code/node_modules/react'
+import { render, fireEvent, screen } from '../code/node_modules/@testing-library/react'
+import App from '../code/src/App'
+import List from '../code/src/List'
 // * Production end
 
 // * Development start
-import '../fcc-react-project-one-at-a-time/node_modules/@testing-library/jest-dom'
-import * as React from '../fcc-react-project-one-at-a-time/node_modules/react'
-import {
-	render,
-	fireEvent,
-	screen
-} from '../fcc-react-project-one-at-a-time/node_modules/@testing-library/react'
-import App from '../fcc-react-project-one-at-a-time/src/App'
-import List from '../fcc-react-project-one-at-a-time/src/List'
+// import '../fcc-react-project-one-at-a-time/node_modules/@testing-library/jest-dom'
+// import * as React from '../fcc-react-project-one-at-a-time/node_modules/react'
+// import {
+// 	render,
+// 	fireEvent,
+// 	screen
+// } from '../fcc-react-project-one-at-a-time/node_modules/@testing-library/react'
+// import App from '../fcc-react-project-one-at-a-time/src/App'
+// import List from '../fcc-react-project-one-at-a-time/src/List'
 // * Development end
 
 test('clear all button', () => {
